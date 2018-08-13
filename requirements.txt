@@ -4,3 +4,4 @@ django-environ
 unidecode
 uwsgi
 gunicorn
+djangorestframework
