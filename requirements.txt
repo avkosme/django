@@ -5,3 +5,4 @@ unidecode
 uwsgi
 gunicorn
 djangorestframework
+Pillow
