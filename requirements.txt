@@ -6,3 +6,4 @@ uwsgi
 gunicorn
 djangorestframework
 Pillow
+mysqlclient
