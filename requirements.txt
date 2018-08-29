@@ -8,3 +8,5 @@ djangorestframework
 Pillow
 mysqlclient
 mongoengine
+requests
+lxml
