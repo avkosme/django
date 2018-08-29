@@ -7,3 +7,4 @@ gunicorn
 djangorestframework
 Pillow
 mysqlclient
+mongoengine
