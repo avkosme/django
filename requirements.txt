@@ -10,3 +10,5 @@ mysqlclient
 mongoengine
 requests
 lxml
+redis
+celery
